@@ -6,6 +6,8 @@ export default {
     extend: {
       fontFamily: {
         'sans': ['"Nunito"', ...defaultTheme.fontFamily.sans],
+        'sans': ['"Quicksand"', ...defaultTheme.fontFamily.sans],
+
       },
     },
   },

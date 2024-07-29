@@ -16,6 +16,9 @@ const NavbarLinks = () => {
             <li className='text-lg font-light'>
               <a className='transition-all duration-300 hover:font-extrabold' href="#project">Project</a>
             </li>
+            <li className='text-lg font-light'>
+              <a className='transition-all duration-300 hover:font-extrabold' href="#testimonial">Testimonial</a>
+            </li>
         </ul>
     </>
   )

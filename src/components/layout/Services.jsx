@@ -20,20 +20,20 @@ function Services() {
     <IoArrowForward className='size-7'/>
    </div>
 </div>
-<div className="services-right grid gap-[25px] grid-cols-2 grid-rows-2 mt-24">
-    <div className="service-card items-center flex flex-col">
+<div className="services-right grid gap-[25px] grid-cols-2 grid-rows-2 mt-6">
+    <div className="service-card transition-all duration-300 hover:translate-x-[-5px] hover:translate-y-[-5px] rounded-[20px] items-center flex flex-col  w-56 min-h-fit  mt-10 p-6  bg-white hover:bg-slate-50 hover:max-w-md hover:mx-auto hover:mt-10 hover:p-6 hover:rounded-lg hover:shadow-lg">
     <RiComputerLine className='size-[70px]'/>
    <h1 className='font-quicksand text-[24px] font-bold leading-34 tracking-0.01 text-center text-center'>Social Media <br /> Management</h1>
     </div>
-    <div className="service-card items-center flex flex-col">
+    <div className="service-card transition-all duration-300 hover:translate-x-[-5px] hover:translate-y-[-5px] rounded-[20px] items-center flex flex-col w-56 min-h-fit mt-10 p-6  bg-white hover:bg-slate-50 hover:max-w-md hover:mx-auto hover:mt-10 hover:p-6 hover:rounded-lg hover:shadow-lg">
     <IoSettingsOutline  className='size-[70px]'/>
         <h1 className='font-quicksand text-[24px] font-bold leading-34 tracking-0.01 text-center text-center'>Search Engine <br />Opimization</h1>
     </div>
-    <div className="service-card items-center flex flex-col">
+    <div className="service-card transition-all duration-300 hover:translate-x-[-5px] hover:translate-y-[-5px] rounded-[20px] items-center flex flex-col w-56 min-h-fit  mt-10 p-6  bg-white hover:bg-slate-50 hover:max-w-md hover:mx-auto hover:mt-10 hover:p-6 hover:rounded-lg hover:shadow-lg">
     <CiPen className='size-[70px]' />
     <h1 className='font-quicksand text-[24px] font-bold leading-34 tracking-0.01 text-center text-center'>Design</h1>
     </div>
-    <div className="service-card items-center flex flex-col">
+    <div className="service-card transition-all duration-300 hover:translate-x-[-5px] hover:translate-y-[-5px] rounded-[20px] items-center flex flex-col w-56 min-h-fit  mt-10 p-6  bg-white hover:bg-slate-50 hover:max-w-md hover:mx-auto hover:mt-10 hover:p-6 hover:rounded-lg hover:shadow-lg">
     <PiTelevision className='size-[70px]' />
     <h1 className='font-quicksand text-[24px] font-bold leading-34 tracking-0.01 text-center text-center'>Ads</h1>
     </div>
